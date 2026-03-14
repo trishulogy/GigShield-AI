@@ -214,6 +214,3 @@ This repository contains the Phase 1 idea document describing:
 7. Compensation is calculated.
 8. Payout is processed instantly.
 
----
-
-# System Architecture
